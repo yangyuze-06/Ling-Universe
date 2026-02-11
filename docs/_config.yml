@@ -1,0 +1,10 @@
+title: Ling-Universe
+theme: minima
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
